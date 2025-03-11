@@ -29,6 +29,8 @@ body {
   
   .bg-dark {
     background: #003366 !important;
+    position: sticky;
+    top: -1px;
   }
   
   footer {
